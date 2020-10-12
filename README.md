@@ -8,7 +8,7 @@ This challenge was to create a VBA script that would take an excel file containi
 * percent change from opening price at the beginning of a given year to the closing price at the end of that year
 * total stock volume of the stock
 
-Next, conditional formatting was used to highlight yearly change in red if it was negative and green if it was positive.
+Next, conditional formatting was used to highlight yearly change in red if negative and green if positive (see image below).
 
 As an additional challenge, the VBA script was modified to also return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". 
 
