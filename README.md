@@ -1,9 +1,5 @@
 # VBA-Challenge
 
-Just a note:
-
-I added all parts of the HW assignment (the main assignment and the 2x challenges) to one .bas file.
-
 ## Challenge Details
 
 This challenge was to create a VBA script that would take an excel file containing stock information for multiple stocks from the years 2014 to 2016 and output each stock's:
@@ -20,7 +16,7 @@ The VBA script is set to run on every worksheet (each year) by running it one ti
 
 See example output below for the year of 2014:
 
-![2014 Stock Data](Multiple_year_stock_data_2014.png)
+![2014 Stock Data](Multiple_year_stock_data_2014.PNG) 
 
 ## Included Files
 
