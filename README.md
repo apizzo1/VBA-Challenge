@@ -25,4 +25,4 @@ In this repository, the following files are included:
 * Snapshot of output for each year (2014, 2015, 2016)
 * Due to the file size (~93MB), the Multiple Year Stock Data file that the BAS script was created for could not be uploaded, but a snapshot of the original file can be seen below: 
 
-![Original Multi Year Stock data file](Snapshot of Multiple Year Stock data file.PNG) 
+![Original Multi Year Stock data file](Snapshot_of_Multiple_Year_Stock_data_file.PNG) 
