@@ -23,3 +23,6 @@ See example output below for the year of 2014:
 In this repository, the following files are included:
 * Main BAS file - the VBA script needed to run through each excel worksheet and perform necessary calculations
 * Snapshot of output for each year (2014, 2015, 2016)
+* Due to the file size (~93MB), the Multiple Year Stock Data file that the BAS script was created for could not be uploaded, but a snapshot of the original file can be seen below: 
+
+![Original Multi Year Stock data file](Snapshot of Multiple Year Stock data file.PNG) 
